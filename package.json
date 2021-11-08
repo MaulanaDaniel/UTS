@@ -1,5 +1,5 @@
-{
-  "name": "gallery_moto",
+  {
+  "name": "gallery_motor",
   "private": true,
   "scripts": {
     "dev": "next dev",

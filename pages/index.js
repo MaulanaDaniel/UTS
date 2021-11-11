@@ -25,7 +25,7 @@ export default function Beranda() {
               </p>
             </a>
           </Link>
-          <Link href='/tentang-saya'>
+          <Link href='/about'>
             <a className={styles.card}>
               <h2>About &rarr;</h2>
               <p>Untuk yang ingin tahu Gallery Motor</p>

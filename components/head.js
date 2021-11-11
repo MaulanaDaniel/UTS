@@ -7,7 +7,7 @@ const HeadHTML = () => (
       name='description'
       content='Ini adalah website untuk latihan menggunakan NextJS'
     />
-    <link rel='icon' href='/favicon.ico' />
+    <link rel='icon' href='/iconmotor.jpeg' />
   </Head>
 );
 export default HeadHTML;

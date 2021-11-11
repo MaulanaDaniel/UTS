@@ -15,7 +15,7 @@ const Artikel = () => (
           <strong className="d-inline-block mb-2 text-primary">Tips & Trik</strong>
           <h3 className="mb-0">Pentingnya perawatan mesin bagi pengendara</h3>
           <div className="mb-1 text-muted">Nov 12</div>
-          <p className="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+          <p className="card-text mb-auto">Komponen inti dalam kendaraan yaitu mesin yang merupakan salah satu hal yang tidak boleh disepelekan.</p>
           <Link href="/artikel/1/kebiasaan-berkendara"><a className="stretched-link">Lanjutkan membaca...</a></Link>
         </div>
         <div className="col-auto d-none d-lg-block">
